@@ -1,0 +1,9 @@
+{
+  "id": "english",
+  "name": "English",
+  "color": "#af765c",
+  "description": "Build confidence with grammar and vocabulary",
+  "type": "language",
+  "rootTopic": "english-root",
+  "plugins": ["tense-timeline", "error-fix"]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "machine-learning",
+  "name": "Machine Learning",
+  "color": "#59796d",
+  "description": "Build intuition for models, cost, and gradient descent",
+  "type": "science",
+  "rootTopic": "ml-week-one",
+  "plugins": [
+    "gd-run",
+    "slope-ball",
+    "learning-rate",
+    "simultaneous"
+  ]
+}
